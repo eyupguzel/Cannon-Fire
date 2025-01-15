@@ -7,3 +7,5 @@
 [Uu]serSettings/
 .vs/
 MemoryCaptures/
+*.mapping.txt
+*.userprefs
